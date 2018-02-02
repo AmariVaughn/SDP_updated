@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fill"
+        android:title=""
+
+        />
+    <item
+        android:id="@+id/MyEvent"
+        android:title="My Events"
+
+        />
+    <item
+        android:id="@+id/MyEvents"
+        android:title="@string/my_scheduled_events"
+
+        />
+    <item
+        android:id="@+id/AddEvent"
+        android:title="Add Event"
+
+        />
+    <item
+        android:id="@+id/LocalizeView"
+        android:title="Log Out"
+
+        />
+
+</menu>

@@ -1,0 +1,901 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -79.771861,
+          36.08051
+        ],
+        "type": "Point"
+      },
+      "id": "0034d20196efad637b858b28c1e69c25"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Alumni Foundation Event Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.768821,
+          36.075524
+        ],
+        "type": "Point"
+      },
+      "id": "01846d3e8a523654ca076ab25d737298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Noble Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.777611,
+          36.075274
+        ],
+        "type": "Point"
+      },
+      "id": "058b14d9ead360535e3eb24662e45c7d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Morrison Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.777604,
+          36.07427
+        ],
+        "type": "Point"
+      },
+      "id": "077b7990248d5c8e8c253825a15b7750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Aggie Village - Richmond"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.771589,
+          36.076793
+        ],
+        "type": "Point"
+      },
+      "id": "07d8fc95c481b6efb358d9b554476616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Cooper Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.772921,
+          36.077746
+        ],
+        "type": "Point"
+      },
+      "id": "0b303f5342549f5a1b57870c7409940a"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -79.769827,
+          36.073547
+        ],
+        "type": "Point"
+      },
+      "id": "0cac9afa94e07ded37670560cc460a5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Aggie Suites E"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.767517,
+          36.075781
+        ],
+        "type": "Point"
+      },
+      "id": "0e28d4e375494dfb20158d5b758363aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Craig Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.769408,
+          36.079166
+        ],
+        "type": "Point"
+      },
+      "id": "0e7efaec4e4ef59aa2c9d3838c9be700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Robeson Theatre"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.770061,
+          36.078309
+        ],
+        "type": "Point"
+      },
+      "id": "1274bc53a386eb272da278b1328304fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Aggie Village - Mcneil"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.772927,
+          36.07591
+        ],
+        "type": "Point"
+      },
+      "id": "12f9e23bf6cca7bea1247ce2b0c52ee7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Hodgin Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.774174,
+          36.073035
+        ],
+        "type": "Point"
+      },
+      "id": "149b477a5f0da7a606d95d15865eb9a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "McNair Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.775956,
+          36.072111
+        ],
+        "type": "Point"
+      },
+      "id": "14b4036e816d8acd789d99902d7c38ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Merrick Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.769944,
+          36.079498
+        ],
+        "type": "Point"
+      },
+      "id": "1640105c559c1986d8181d0d5ebbf3b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -79.768507,
+          36.079585
+        ],
+        "type": "Point"
+      },
+      "id": "16ce3a9a92e539b8d0cd1e16e831fe62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Academic Science Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.772151,
+          36.07976
+        ],
+        "type": "Point"
+      },
+      "id": "16fcad6f0d325edd15881e1a5e08ab60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "General Classroom Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.769312,
+          36.078748
+        ],
+        "type": "Point"
+      },
+      "id": "190cef0fe6699dbaacabe107970eb5ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Garret House"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.77617,
+          36.073823
+        ],
+        "type": "Point"
+      },
+      "id": "1cc7f3d93fa5f78269e5889f966e5609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Ward Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.772957,
+          36.079279
+        ],
+        "type": "Point"
+      },
+      "id": "1e0718ff779665e21f666989930228c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Holland Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.774048,
+          36.074816
+        ],
+        "type": "Point"
+      },
+      "id": "261718890079ac435db9f34b5ee74b4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Coltraine Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.776912,
+          36.072369
+        ],
+        "type": "Point"
+      },
+      "id": "26220f8008271ba9bffe105ff5a80600"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -79.771265,
+          36.07452
+        ],
+        "type": "Point"
+      },
+      "id": "32c87546bb5c7963f8089f7b426ef097"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -79.770545,
+          36.078129
+        ],
+        "type": "Point"
+      },
+      "id": "357d7993a486a33f017226b175ce6294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Corbett Sports Complex"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.769019,
+          36.07677
+        ],
+        "type": "Point"
+      },
+      "id": "4e01100a05786fb0f9410215be7143bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Wellness Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.770495,
+          36.075781
+        ],
+        "type": "Point"
+      },
+      "id": "4e93731cc8dd59a7f619e39f523250fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Morrow Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.777233,
+          36.07367
+        ],
+        "type": "Point"
+      },
+      "id": "502bc5e1d12db61f1b825189a421755c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Benbow Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.778277,
+          36.073812
+        ],
+        "type": "Point"
+      },
+      "id": "5337c39091ff262a7a0d3d6b56988a33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Aggie Suites F"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.767376,
+          36.074639
+        ],
+        "type": "Point"
+      },
+      "id": "5396336ddc4633f355c01fa44ba52726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Sebastian Health Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.776922,
+          36.073152
+        ],
+        "type": "Point"
+      },
+      "id": "5bd8ba2ab7d96a57ea8a4bb307c343af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Murphy Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.776102,
+          36.074277
+        ],
+        "type": "Point"
+      },
+      "id": "5c10bf8b8e0870bd82f3872950495dc3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "IRC Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.774876,
+          36.073362
+        ],
+        "type": "Point"
+      },
+      "id": "5c7a7b25d714d04d9506d3b479796d32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Student Union"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.770463,
+          36.077763
+        ],
+        "type": "Point"
+      },
+      "id": "63cbaf946848f8b154cc19b894d3e01e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Graham"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.776142,
+          36.072681
+        ],
+        "type": "Point"
+      },
+      "id": "6575580fe27a8d85c3cf922070229862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Aggie Stadium"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.770807,
+          36.081191
+        ],
+        "type": "Point"
+      },
+      "id": "663f331707066e69f831acfab0749e67"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Moore Gym"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.77014,
+          36.076704
+        ],
+        "type": "Point"
+      },
+      "id": "674d62c8797ce1f889b87e51ff3202b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Crosby Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.76997,
+          36.078768
+        ],
+        "type": "Point"
+      },
+      "id": "6ccfe96de9dc08b8573e39e4850c62ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Alex Haley Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.768464,
+          36.077638
+        ],
+        "type": "Point"
+      },
+      "id": "6f6e3d38da142bb3dc4477ec17124e89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Barbee Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.777801,
+          36.07286
+        ],
+        "type": "Point"
+      },
+      "id": "79ec16d763f58ab8384d973eb201b6e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Student Health Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.7696,
+          36.074873
+        ],
+        "type": "Point"
+      },
+      "id": "7a899cc3b9d4dc0f3a76c12ec2e21f72"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Williams Cafeteria"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.774831,
+          36.07414
+        ],
+        "type": "Point"
+      },
+      "id": "816d910bf04d9cd2e48983a2c3b37649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Aggie Village - McCain"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.771437,
+          36.075912
+        ],
+        "type": "Point"
+      },
+      "id": "84474c9728172c1095110044a63c310a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Harrison Auditorium"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.776067,
+          36.075151
+        ],
+        "type": "Point"
+      },
+      "id": "870ff42dfdbef78db88b37a676e6cc9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Vanstory Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.77767,
+          36.073306
+        ],
+        "type": "Point"
+      },
+      "id": "8e34f039269467668eec8c66fd7b0535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Fraizer Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.776884,
+          36.075278
+        ],
+        "type": "Point"
+      },
+      "id": "8e77046ed55d559e5974c5c5fa4d8633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Carver Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.772557,
+          36.080226
+        ],
+        "type": "Point"
+      },
+      "id": "90a23b531cfa7d35c85b42dcbd0a3d00"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Academic Classroom Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.772008,
+          36.074508
+        ],
+        "type": "Point"
+      },
+      "id": "90f768e17a386b437f01351ae79c5f99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Dudley Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.777264,
+          36.074772
+        ],
+        "type": "Point"
+      },
+      "id": "9714b00b9898ac817e802b9790366f7a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Cherry Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.775611,
+          36.072778
+        ],
+        "type": "Point"
+      },
+      "id": "99514827d37f5b084ea2230d8a5e9779"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -79.768603,
+          36.074386
+        ],
+        "type": "Point"
+      },
+      "id": "a564e5e7e7e1ad76d661b697757b0d60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Bluford Library"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.773454,
+          36.07277
+        ],
+        "type": "Point"
+      },
+      "id": "a6f46ca1d97dd60ef59590bd282a5c36"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Dowdy Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.772358,
+          36.073193
+        ],
+        "type": "Point"
+      },
+      "id": "aea8c27730340838e976c56f8eb59d7d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Aggie village - Blair"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.772562,
+          36.076789
+        ],
+        "type": "Point"
+      },
+      "id": "b6c3a25a4ab2be5123b39dbe585bcdc6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Barnes Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.771202,
+          36.079633
+        ],
+        "type": "Point"
+      },
+      "id": "cd5b8d9fcdfdb1aadcf5d04afbff832a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Hines Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.775213,
+          36.074903
+        ],
+        "type": "Point"
+      },
+      "id": "ce76096a7024456298134e2f2d5e6cdb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Marteena Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.771265,
+          36.078605
+        ],
+        "type": "Point"
+      },
+      "id": "d727945cb3d43e2d8c9d9672c62f1d06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Price Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.772591,
+          36.078475
+        ],
+        "type": "Point"
+      },
+      "id": "d8814494885857c6e11fc1ba08d031bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Sockwell Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.771828,
+          36.079178
+        ],
+        "type": "Point"
+      },
+      "id": "e1de9211b1222c1b68b5537e5532e337"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -79.769701,
+          36.08236
+        ],
+        "type": "Point"
+      },
+      "id": "e9341706bb77c322c0634c2ef5ab8877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Pride Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.767602,
+          36.077429
+        ],
+        "type": "Point"
+      },
+      "id": "e9e396b089c43f1e3a46ab7ffb7774d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Reid Greenhouse"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.77309,
+          36.079572
+        ],
+        "type": "Point"
+      },
+      "id": "eada4d661a7a86cb37339a10940ed6c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Cambell Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.769536,
+          36.077744
+        ],
+        "type": "Point"
+      },
+      "id": "ee614fe71062b53809ef0151dcdf4133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Gibbs Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.774481,
+          36.072122
+        ],
+        "type": "Point"
+      },
+      "id": "f201e9ab8a0bf61e06ee724033e74ef8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Webb Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.771186,
+          36.073338
+        ],
+        "type": "Point"
+      },
+      "id": "f2700eef3b56113d6906dd478d9fb41a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Curtis Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.774121,
+          36.073837
+        ],
+        "type": "Point"
+      },
+      "id": "fc9534bd3185f043f236ac76d9357e9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Building": "Smith Technology Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.773245,
+          36.07845
+        ],
+        "type": "Point"
+      },
+      "id": "ff4417b9327e620ba11a79a864714e5b"
+    }
+  ],
+  "type": "FeatureCollection"
+}
